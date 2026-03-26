@@ -1,0 +1,18 @@
+---
+- name: "Signal & Noise"
+  description: "A minimal audio visualizer built with the Web Audio API and canvas—turn any sound into an oscilloscope."
+  tags: ["JavaScript", "Web Audio API", "Canvas"]
+  link: "#"
+  icon: "🎛️"
+
+- name: "Tiny Raft"
+  description: "A toy implementation of the Raft consensus algorithm in Go to explore distributed systems concepts."
+  tags: ["Go", "Distributed Systems"]
+  link: "#"
+  icon: "🚀"
+
+- name: "Pixel Garden"
+  description: "A procedural pixel-art generator that grows organic patterns using cellular automata rules."
+  tags: ["Python", "Generative Art"]
+  link: "#"
+  icon: "🌱"
