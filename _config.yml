@@ -1,0 +1,24 @@
+title: Maxwell Bloch
+description: Engineer, tinkerer, and builder.
+author: Maxwell Bloch
+url: "https://maxwellb.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+
+# Sass settings
+sass:
+  style: compressed
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md

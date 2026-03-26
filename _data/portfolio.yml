@@ -1,0 +1,21 @@
+---
+- name: "Open Source Contributions"
+  description: "Contributions to open source projects including bug fixes, features, and documentation across the GitHub ecosystem."
+  tags: ["Open Source", "GitHub"]
+  link: "https://github.com/maxwellb"
+  icon: "🔧"
+  featured: true
+
+- name: "Systems Work"
+  description: "Low-level work exploring operating systems, networking protocols, and performance optimizations."
+  tags: ["C", "Systems", "Networking"]
+  link: "#"
+  icon: "⚙️"
+  featured: true
+
+- name: "Developer Tooling"
+  description: "Tools and utilities that make the daily life of a developer smoother—from CLI helpers to editor plugins."
+  tags: ["CLI", "DevTools", "Productivity"]
+  link: "#"
+  icon: "🛠️"
+  featured: false
